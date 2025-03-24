@@ -2,7 +2,10 @@
 
 **`Software Engineer`**
 
-I'm an Egyptian Flutter developer building flexible apps with clean architecture. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Software Engineer with 2+ years of experience in Flutter and Jetpack Compose, specializing in cross-platform app development. Skilled in state management, clean architecture, API integration, and real-time data
+processing. Experienced in building e-commerce, fitness, and emergency response apps, with a strong focus on
+performance optimization and scalability. Passionate about innovation and staying updated with industry trends to
+deliver high-quality solutions.
 
 ---
 
@@ -36,6 +39,5 @@ I'm an Egyptian Flutter developer building flexible apps with clean architecture
 
 - [Email](mailto:fadysaied63@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fady-saied-334b29218/)
-- [Instagram](https://www.instagram.com/fady_elze3iky/)
 
 ---
