@@ -1,6 +1,6 @@
 # ⚡ Fady Saied
 
-**`Software Engineer (Flutter Developer)`**
+**`Software Engineer`**
 
 I'm an Egyptian Flutter developer building flexible apps with clean architecture. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
